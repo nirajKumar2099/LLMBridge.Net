@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\bin\Debug\net8.0\LLMBridge.Net.deps.json
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\bin\Debug\net8.0\LLMBridge.Net.dll
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\bin\Debug\net8.0\LLMBridge.Net.pdb
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.AssemblyInfo.cs
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.dll
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\refint\LLMBridge.Net.dll
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\LLMBridge.Net.pdb
+C:\Users\Dell\source\repos\LLMBridge.Net\LLMBridge.Net\obj\Debug\net8.0\ref\LLMBridge.Net.dll
